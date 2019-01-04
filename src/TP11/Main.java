@@ -9,7 +9,7 @@ public class Main {
 
 
 		// FigureUtil.getRandomRond().affiche();
-		// FigureUtil.getRandomRectangle().affiche()    ;
+		// FigureUtil.getRandomRectangle().affiche();
 		for (int i = 0; i < 10; i++) {
 			System.out.println("\nRANDOM FIGURE : \n");
 			FigureUtil.getRandomFigure().affiche();
