@@ -12,7 +12,7 @@ public class Main {
 
 			Point p3 = new Point(3,5);
 			Point p2 = new Point(3,5);
-			Point p4 = new Point(4,6);
+			Point p4 = new Point(4,8);
 			
 			System.out.println(p3.equals(p2));
 			System.out.println(p3.equals(p4));
