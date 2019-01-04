@@ -290,7 +290,7 @@ public class FigureUtil {
 					}
 				}
 			}
-			//System.out.println("SORTIR DE WHILE");
+			//System.out.println("SORTIR DE WHILE"); random modif pour git
 		}
 		catch(IOException ioe) {
 			System.out.println("Erreur --"+ ioe.toString());
