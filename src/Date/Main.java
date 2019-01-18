@@ -40,6 +40,20 @@ public class Main {
 //	     String test = "zefkzefkfeakfaekazfe";
 //	     assertFalse(empty.isPresent());
 //	     Optional.of(test);
+	    
+	    test t = new test();
+	    t.test();
+	    System.out.println(0.0/0.0);
+	    int x2 = 1_000_2_3_5;			// ne fait rien
+	    System.out.println(x2);
+	    StringBuilder s1 = new StringBuilder();
+	    s1.append("testNumero");
+	    s1.setCharAt(2, 'C');
+	    s1.setLength(3);
+	    System.out.println(s1);
+	    int p = 010;  			// >Base 8
+	    System.out.println(p);
+	    System.out.println(0b101); // base 2
 
 	}
 
